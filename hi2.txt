@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hi everyone
+=======
+kdfadf
+>>>>>>> 4e24435e1620638e861af2c636eb4a269f554ed3
